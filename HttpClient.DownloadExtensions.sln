@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClient.DownloadExtensions", "HttpClient.DownloadExtensions.csproj", "{605265B6-5100-44DF-94E2-CBE0874E625C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605265B6-5100-44DF-94E2-CBE0874E625C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605265B6-5100-44DF-94E2-CBE0874E625C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605265B6-5100-44DF-94E2-CBE0874E625C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605265B6-5100-44DF-94E2-CBE0874E625C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D259F57E-C9D4-4F0B-B872-B4F683F52ED5}
+	EndGlobalSection
+EndGlobal
