@@ -18,7 +18,7 @@
 	  </Description>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <releaseNotes>v1.0.0</releaseNotes>
-	  <RepositoryUrl>http://www.github.com/doeasier/HttpDownload.git</RepositoryUrl>
+	  <RepositoryUrl>https://github.com/doeasier/httpclientdownload</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
